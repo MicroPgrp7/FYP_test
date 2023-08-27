@@ -4,7 +4,7 @@ from __future__ import absolute_import
 
 import argparse
 import json
-import keras
+import tensorflow.keras as keras
 import numpy as np
 import os
 import random
